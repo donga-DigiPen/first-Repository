@@ -1,7 +1,7 @@
 # first-Repository
 Wow my first Repository Cool!!!!!!!!!!!!!
 
-##sub section???
+## sub section???
 
 Oh unbelivable
 
@@ -9,6 +9,6 @@ Oh unbelivable
 
 Yes! but subsub is junseob
 
-#new big?
+# new big?
 
 OHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!!!!!!!
